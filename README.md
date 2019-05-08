@@ -9,8 +9,11 @@ But here's the catch: you can use only one **"if"**. No multiple branches, terna
 ### Requirements
 
 **1.** 1 **"if"**.
+
 **2.** You can't use **"else"**, **"else if"** or ternary.
+
 **3.** Unit tests.
+
 **4.** Feel free to apply your **SOLID knowledge**.
 
 ## Solution
